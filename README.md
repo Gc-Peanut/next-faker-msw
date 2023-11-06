@@ -1,4 +1,3 @@
-# 使用nextJs架构 搞多页面应用架构，搞SEO，可扩展成BFF层
 
 ## Getting Started
 
